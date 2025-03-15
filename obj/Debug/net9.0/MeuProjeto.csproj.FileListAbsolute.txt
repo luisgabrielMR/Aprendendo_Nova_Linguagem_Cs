@@ -1,0 +1,15 @@
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\bin\Debug\net9.0\MeuProjeto.exe
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\bin\Debug\net9.0\MeuProjeto.deps.json
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\bin\Debug\net9.0\MeuProjeto.dll
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\bin\Debug\net9.0\MeuProjeto.pdb
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\MeuProjeto.sourcelink.json
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\MeuProjeto.dll
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\refint\MeuProjeto.dll
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\MeuProjeto.pdb
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+c:\Users\User\Documents\GitHub\aprendendoCs\Aprendendo_Nova_Linguagem_Cs\obj\Debug\net9.0\ref\MeuProjeto.dll
